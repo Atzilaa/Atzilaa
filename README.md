@@ -17,8 +17,8 @@
 
 ## 📈 Statistiques GitHub  
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=VotrePseudo&show_icons=true&theme=radical)  
-![Langages principaux](https://github-readme-stats.vercel.app/api/top-langs/?username=VotrePseudo&layout=compact&theme=radical)  
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Atzilaa&show_icons=true&theme=radical)  
+![Langages principaux](https://github-readme-stats.vercel.app/api/top-langs/?username=Atzilaa&layout=compact&theme=radical)  
 
 ## 📫 Contact  
 
