@@ -1,4 +1,4 @@
-# Software Engineer, basé à Paris, France
+# Software Engineer, basé en France
 
 ---
 
