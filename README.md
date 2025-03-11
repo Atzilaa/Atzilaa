@@ -33,21 +33,12 @@ Passionné par le développement, j'explore divers langages et technologies, pri
 
 ### Infrastructure
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-- MySQL 8.0, Redis 7.0, Redis Commander, Nginx (à venir)
+- MySQL 8.0, Redis 7.0, Redis Commander, Nginx
 
 ### Outils de Développement
 - ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 - ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
 - Git, npm, PowerShell
-
----
-
-## 💻 Environnement de développement
-
-### Prérequis
-- Node.js 18+ et npm
-- Docker Desktop
-- PowerShell
 
 ---
 
@@ -67,7 +58,7 @@ Passionné par le développement, j'explore divers langages et technologies, pri
 
 ## 📫 Où me trouver ?
 📌 **GitHub** : [@Atzilaa](https://github.com/Atzilaa)  
-📌 **Discord** : Atzilaa#0000  
+📌 **Discord** : atzilaa 
 
 ---
 ✨ *Merci d’être passé(e) sur mon profil !* 🚀
