@@ -1,4 +1,4 @@
-<p style="text-align:center;">![Banner](https://via.placeholder.com/1200x400?text=Bienvenue+sur+mon+GitHub+%F0%9F%8C%9F)
+![Banner](https://via.placeholder.com/1200x400?text=Bienvenue+sur+mon+GitHub+%F0%9F%8C%9F)
 
 # 👋 Salut, moi c'est Atzilaa !
 
@@ -48,4 +48,3 @@ Passionné par le développement, j'explore divers langages et technologies, pri
 
 ---
 ✨ *Merci d’être passé(e) sur mon profil !* 🚀
-</p>
