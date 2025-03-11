@@ -5,20 +5,6 @@
 Passionné par le développement, j'explore divers langages et technologies, principalement autour du jeu vidéo et du web. Mes projets sont privés, mais voici un aperçu de mon univers tech !
 
 ---
-
-## 🎨 Technologies que j’utilise
-
-### 🎮 **Développement de scripts pour Arma 3**
-![SQF](https://img.shields.io/badge/SQF-68.6%25-blue?style=for-the-badge)
-
-### 🌐 **Développement Web**
-![TypeScript](https://img.shields.io/badge/TypeScript-57.9%25-blue?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-35.6%25-yellow?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-5.9%25-purple?style=for-the-badge)
-![PowerShell](https://img.shields.io/badge/PowerShell-0.6%25-lightblue?style=for-the-badge)
-
----
-
 ## 🛠️ Outils & Technologies
 
 ### Frontend
